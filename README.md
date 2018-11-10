@@ -1,4 +1,4 @@
-**__#CSE2102 Project - UOG__**
+**__CSE2102 Project - UOG__**
 
 Project Subject: *Room Data Software*
 
